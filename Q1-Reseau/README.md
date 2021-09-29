@@ -20,4 +20,6 @@
   * [Labo-5](Labo-5.md)
   * [Labo-5 (version pdf)](pdf/Labo-5.pdf)
 * Réseau Cours n°6 (*19 octobre*) : **Examen blanc**
+  * [Labo-6](Labo-6.md)
+  * [Labo-6 (version pdf)](pdf/Labo-6.pdf)
 
