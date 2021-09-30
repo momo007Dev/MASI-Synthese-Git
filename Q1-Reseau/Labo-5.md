@@ -178,7 +178,7 @@
 
 `hostname S_namur_1`\
 `ip domain-name henallux.be`\
-`username ssh secret ssh`\
+`username ssh secret ssh`
 
 > **int f0/1**\
 > `switchport access vlan 10`\

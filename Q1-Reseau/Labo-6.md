@@ -81,7 +81,7 @@
 | -------- |
 
 `hostname R_Namur`\
-`no ip domain-lookup`\
+`no ip domain-lookup`
 
 > **int g0/0/0**\
 > `description vers Namur`\
@@ -94,7 +94,7 @@
 > `no shut`
 
 > **int s0/1/1**\
-> `description vers R_Liege\`
+> `description vers R_Liege`\
 > `ip add 192.168.40.5 255.255.255.252`\
 > `no shut`
 
